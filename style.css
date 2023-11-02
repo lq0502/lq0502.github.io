@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url('https://github.com/lq0502/lq0502.github.io/blob/main/images/piano.png'); /* 替换为你的图片的URL */
+    background-image: url('https://github.com/lq0502/lq0502.github.io/blob/main/images/piano.png'); 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; 
