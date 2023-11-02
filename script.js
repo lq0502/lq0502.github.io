@@ -94,4 +94,19 @@ document.addEventListener('DOMContentLoaded', function () {
                 break;
         }
     });
+
+    // 切换菜单
+
+    const menuButton = document.getElementById('menuButton');
+    menuButton.addEventListener('click', toggleMenu);
+    function toggleMenu() {
+        const menu = document.getElementById('menu');
+        if (menu.style.display === 'block') {
+            menu.style.display = 'none';
+            menuButton.textContent = 'CLICK ME';
+        } else {
+            menu.style.display = 'block';
+            menuButton.textContent = 'CLOSE';
+        }
+    }
 });
