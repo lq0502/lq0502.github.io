@@ -21,7 +21,7 @@ body {
 }
 
 .key {
-    width: 60px;
+    width: 55px;
     height: 220px;
     border: 2px solid #000;
     background-color: #fff;
@@ -39,7 +39,7 @@ body {
 
 .black {
     width: 30px;
-    height: 100px;
+    height: 120px;
     background-color: #000;
     margin: 0 -10px;
     position: relative;
