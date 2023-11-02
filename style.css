@@ -56,8 +56,8 @@ body {
 .menu-button {
     cursor: pointer;
     position: absolute;
-    top: -208px;
-    left: -385px;
+    top: -180px;
+    left: -360px;
 }
 
 .menu {
