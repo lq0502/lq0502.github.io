@@ -52,3 +52,20 @@ body {
     font-size: 0.8em;
     color: white;
 }
+
+.menu-button {
+    cursor: pointer;
+    position: absolute;
+    top: -208px;
+    left: -385px;
+}
+
+.menu {
+    display: none;
+    position: absolute;
+    top: 80px;
+    left: 10px;
+    background-color: #fff;
+    border: 2px solid #000;
+    padding: 10px;
+}
